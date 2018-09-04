@@ -13,3 +13,5 @@ By [AlloyTeam](http://www.AlloyTeam.com/)
 
 
 PS
+美化一些界面，工作和休息的字体背景颜色区分
+增添强制top页面提醒
